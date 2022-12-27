@@ -14,7 +14,7 @@
 
 <div class="row mb-5">
   <div class="col">
-    <h1 class="text-center">MTG Counter</h1>
+    <h1 class="text-center">MTG Counter App</h1>
   </div>
 </div>
 <div class="row">
